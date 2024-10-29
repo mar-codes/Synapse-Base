@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "botID": "",
+    "developerIds": ["", ""],
+    "devGuild": "",
+    "mongoURL": "",
+    "sqliteFileName": "",
+    "prefix": "!"
+}
